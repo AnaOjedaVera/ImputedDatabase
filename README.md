@@ -14,6 +14,8 @@ Missing data is a prevalent issue in many astrophysics studies and poses a signi
 * `03 Classification methods.ipynb`: Notebook containing the machine learning model training and evaluation.
 * `ImputedDataset.pdf`: The plots from the imputed asteroid dataset derived from the method.
 * `ImputedDatasetWithoutClasses.pdf`: The plots from the imputed asteroid dataset derived from the method, but without considering classes in the filling process.
+* `pV_plots.pdf`: The plots from the imputed albedos of the asteroids derived from the method, but without considering classes in the filling process.
+
 
 
 ## Original Data Source
