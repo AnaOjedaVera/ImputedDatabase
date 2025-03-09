@@ -12,6 +12,9 @@ Missing data is a prevalent issue in many astrophysics studies and poses a signi
 * `01 Data preparation.ipynb`: Notebook for data preprocessing.
 * `02 Imputation methods.ipynb`: Notebook detailing the imputation methods used.
 * `03 Classification methods.ipynb`: Notebook containing the machine learning model training and evaluation.
+* `ImputedDataset.pdf`: The plots from the imputed asteroid dataset derived from the method.
+* `ImputedDatasetWithoutClasses.pdf`: The plots from the imputed asteroid dataset derived from the method, but without considering classes in the filling process.
+
 
 ## Original Data Source
 
