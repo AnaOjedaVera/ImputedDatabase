@@ -1,6 +1,6 @@
 # AsteroidImputationClassify
 
-This repository contains Jupyter notebooks and data used for assessing machine learning models for a data imputation method in asteroid taxonomic classification.
+This repository contains Jupyter notebooks and data used for assessing machine learning models for a data imputation method in asteroid taxonomic classification. Also, the final imputed database as well as the final results in pdfs.  
 
 ## Project Overview
 
