@@ -86,3 +86,19 @@ We achieved test accuracy scores ranging from **63.10% to 85.37%** with spectral
 In summary, the proposed data imputation method proved to be a viable approach, achieving high accuracy **(88.10%)** and demonstrating its potential for improving the accuracy of taxonomic classification in asteroid databases. This is particularly important, considering that many state-of-the-art approaches and previous studies often reduce the dataset size due to missing data at specific wavelengths or limit the sample size because of incomplete observations. The proposed methodology effectively mitigated these limitations by imputing the missing data; however, imputation beyond 50% missing data introduced significant uncertainties, which likely affected our results. Therefore, we recommend excluding samples with over 50% missing data in future studies to maximize accuracy. Ensuring a balance between model complexity, dataset size, and feature richness is key to enhancing classification accuracy.
 
 Future work will focus on implementing this imputation methodology to construct a large, high-quality dataset, which will serve as the basis for developing a novel asteroid taxonomic classification scheme. This approach could also be motivational for other astrophysics studies where missing data is a prevalent challenge.
+
+---
+
+## Contact
+
+**Ana V. Ojeda Vera**  
+Doctoral Student in Data Science  
+CITEDI – Instituto Politécnico Nacional (IPN), Mexico.
+Email: **anaojedavera@gmail.com**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anaojedavera@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0748-9630)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HO17QvAAAAAJ&hl=es)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ana-V-Ojeda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaojedavera/)
+
