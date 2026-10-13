@@ -1,6 +1,22 @@
 # AsteroidImputationClassify
 
-This repository contains Jupyter notebooks and data used for assessing machine learning models for a data imputation method in asteroid taxonomic classification. Also, the final imputed database as well as the final results in pdfs.  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![JATIS 2025](https://img.shields.io/badge/JATIS-2025-0077B5)
+![Published](https://img.shields.io/badge/Publication-Published-brightgreen)
+[![DOI](https://img.shields.io/badge/DOI-10.1117%2F1.JATIS.11.2.028006-B31B1B)](https://doi.org/10.1117/1.JATIS.11.2.028006)
+
+This repository contains Jupyter notebooks, the imputed asteroid database, and supplementary results associated with the published research article:
+
+> **Assessing data imputation for asteroid taxonomic classification**
+
+**Ana V. Ojeda, C. A. Guerrero, Juan J. Tapia, and Luis Hector Sanchez**
+
+Published in *Journal of Astronomical Telescopes, Instruments, and Systems (JATIS)*, Vol. 11, Issue 2, Article 028006 (2025).
+
+**DOI:** https://doi.org/10.1117/1.JATIS.11.2.028006
+
+---
 
 ## Project Overview
 
